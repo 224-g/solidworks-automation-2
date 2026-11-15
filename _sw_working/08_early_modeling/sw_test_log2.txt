@@ -1,0 +1,2 @@
+TEST D (cone apex-on-axis): OK Ðý×ª1
+TEST E (cone off-axis): OK Ðý×ª1

@@ -1,0 +1,12 @@
+﻿# SolidWorks 锁文件/临时
+~$*
+*.log
+*.bak
+*.tmp
+# 编译产物（可从 .cs 重建）
+*.exe
+*.obj
+*.pdb
+# 系统
+Thumbs.db
+desktop.ini

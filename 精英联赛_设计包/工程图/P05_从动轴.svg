@@ -1,0 +1,33 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='297mm' height='210mm' viewBox='0 0 297 210'><rect x='0' y='0' width='297' height='210' fill='white' stroke='black' stroke-width='1' /><circle cx='70' cy='90' r='10' fill='none' stroke='black' stroke-width='0.5' />
+<line x1='79.57' y1='87.1' x2='61.37' y2='84.95' stroke='black' stroke-width='0.5' />
+<line x1='56' y1='90' x2='84' y2='90' stroke='black' stroke-width='0.15' stroke-dasharray="5 2 1 2" />
+<line x1='70' y1='76' x2='70' y2='104' stroke='black' stroke-width='0.15' stroke-dasharray="5 2 1 2" />
+<text x='88' y='82' font-size='3' text-anchor='start' font-family='SimHei, Microsoft YaHei, sans-serif'>Ø10</text>
+<text x='88' y='96' font-size='2.6' text-anchor='start' font-family='SimHei, Microsoft YaHei, sans-serif'>扁2(距中心)</text>
+<rect x='162' y='85' width='48' height='10' fill='none' stroke='black' stroke-width='0.5' />
+<line x1='162' y1='90' x2='210' y2='90' stroke='black' stroke-width='0.15' stroke-dasharray="5 2 1 2" />
+<line x1='162' y1='95' x2='162' y2='102' stroke='black' stroke-width='0.18' />
+<line x1='210' y1='95' x2='210' y2='102' stroke='black' stroke-width='0.18' />
+<line x1='162' y1='102' x2='210' y2='102' stroke='black' stroke-width='0.25' />
+<polygon points='162,102 163.6,101.28 163.6,102.72' fill='black' />
+<polygon points='210,102 208.4,102.72 208.4,101.28' fill='black' />
+<text x='186' y='101' font-size='3' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>48</text>
+<line x1='212' y1='85' x2='219' y2='85' stroke='black' stroke-width='0.18' />
+<line x1='212' y1='95' x2='219' y2='95' stroke='black' stroke-width='0.18' />
+<line x1='219' y1='85' x2='219' y2='95' stroke='black' stroke-width='0.25' />
+<polygon points='219,85 219.72,86.6 218.28,86.6' fill='black' />
+<polygon points='219,95 218.28,93.4 219.72,93.4' fill='black' />
+<text x='219.5' y='90' font-size='3' text-anchor='start' font-family='SimHei, Microsoft YaHei, sans-serif'>Ø10</text>
+<rect x='157' y='178' width='140' height='32' fill='white' stroke='black' stroke-width='0.5' />
+<line x1='157' y1='188' x2='297' y2='188' stroke='black' stroke-width='0.35' />
+<line x1='217' y1='188' x2='217' y2='210' stroke='black' stroke-width='0.35' />
+<line x1='267' y1='188' x2='267' y2='210' stroke='black' stroke-width='0.35' />
+<line x1='157' y1='199' x2='297' y2='199' stroke='black' stroke-width='0.35' />
+<text x='187' y='185' font-size='4.5' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>从动轴</text>
+<text x='242' y='195.5' font-size='3' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>45钢</text>
+<text x='287' y='195.5' font-size='3' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>1</text>
+<text x='302' y='195.5' font-size='3' text-anchor='end' font-family='SimHei, Microsoft YaHei, sans-serif'>1:1</text>
+<text x='167' y='205' font-size='3' text-anchor='start' font-family='SimHei, Microsoft YaHei, sans-serif'>P05</text>
+<text x='242' y='205' font-size='3' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>智能制造工程</text>
+<text x='282' y='205' font-size='3' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>2026-11</text>
+<text x='187' y='195.5' font-size='2.5' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>材料</text></svg>

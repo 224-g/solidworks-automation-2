@@ -1,0 +1,27 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='297mm' height='210mm' viewBox='0 0 297 210'><rect x='0' y='0' width='297' height='210' fill='white' stroke='black' stroke-width='1' /><rect x='94' y='58' width='32' height='64' fill='none' stroke='black' stroke-width='0.5' />
+<line x1='94' y1='122' x2='94' y2='129' stroke='black' stroke-width='0.18' />
+<line x1='126' y1='122' x2='126' y2='129' stroke='black' stroke-width='0.18' />
+<line x1='94' y1='129' x2='126' y2='129' stroke='black' stroke-width='0.25' />
+<polygon points='94,129 95.6,128.28 95.6,129.72' fill='black' />
+<polygon points='126,129 124.4,129.72 124.4,128.28' fill='black' />
+<text x='110' y='128' font-size='3' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>Ø8</text>
+<line x1='126' y1='58' x2='133' y2='58' stroke='black' stroke-width='0.18' />
+<line x1='126' y1='122' x2='133' y2='122' stroke='black' stroke-width='0.18' />
+<line x1='133' y1='58' x2='133' y2='122' stroke='black' stroke-width='0.25' />
+<polygon points='133,58 133.72,59.6 132.28,59.6' fill='black' />
+<polygon points='133,122 132.28,120.4 133.72,120.4' fill='black' />
+<text x='133.5' y='90' font-size='3' text-anchor='start' font-family='SimHei, Microsoft YaHei, sans-serif'>16</text>
+<text x='130' y='70' font-size='3' text-anchor='start' font-family='SimHei, Microsoft YaHei, sans-serif'>两端倒角C0.5</text>
+<rect x='157' y='178' width='140' height='32' fill='white' stroke='black' stroke-width='0.5' />
+<line x1='157' y1='188' x2='297' y2='188' stroke='black' stroke-width='0.35' />
+<line x1='217' y1='188' x2='217' y2='210' stroke='black' stroke-width='0.35' />
+<line x1='267' y1='188' x2='267' y2='210' stroke='black' stroke-width='0.35' />
+<line x1='157' y1='199' x2='297' y2='199' stroke='black' stroke-width='0.35' />
+<text x='187' y='185' font-size='4.5' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>曲柄销</text>
+<text x='242' y='195.5' font-size='3' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>45钢</text>
+<text x='287' y='195.5' font-size='3' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>1</text>
+<text x='302' y='195.5' font-size='3' text-anchor='end' font-family='SimHei, Microsoft YaHei, sans-serif'>2:1</text>
+<text x='167' y='205' font-size='3' text-anchor='start' font-family='SimHei, Microsoft YaHei, sans-serif'>P09</text>
+<text x='242' y='205' font-size='3' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>智能制造工程</text>
+<text x='282' y='205' font-size='3' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>2026-11</text>
+<text x='187' y='195.5' font-size='2.5' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>材料</text></svg>

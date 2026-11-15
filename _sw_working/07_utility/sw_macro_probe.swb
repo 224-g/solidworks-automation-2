@@ -1,0 +1,31 @@
+Dim swApp As SldWorks.SldWorks
+Dim swAssy As SldWorks.AssemblyDoc
+Dim swComp As SldWorks.Component2
+Dim fso As Object
+Dim log As Object
+Set fso = CreateObject("Scripting.FileSystemObject")
+Set log = fso.OpenTextFile("C:\Users\zgzgd\Documents\DSH\sw_macro_probe.log", 8, True)
+
+Sub LogMsg(tag, msg)
+  log.WriteLine Time & " " & tag & " " & msg
+End Sub
+
+Sub main()
+  On Error Resume Next
+  Set swApp = Application.SldWorks
+  LogMsg "start", "macro running rev=" & swApp.RevisionNumber
+  swApp.CloseAllDocuments True
+  Set swAssy = swApp.NewDocument("C:\ProgramData\SolidWorks\SOLIDWORKS 2024\templates\gb_assembly.asmdot", 0, 0, 0)
+  If swAssy Is Nothing Then
+    LogMsg "newasm", "FAILED"
+    Exit Sub
+  End If
+  LogMsg "newasm", "type=" & swAssy.GetType & " title=" & swAssy.GetTitle
+  Set swComp = swAssy.AddComponent5("plate", "C:\Users\zgzgd\Documents\DSH\sw_parts8\plate.SLDPRT", 0, 0, 0)
+  If swComp Is Nothing Then
+    LogMsg "addcomp", "FAILED err=" & Err.Number & " " & Err.Description
+  Else
+    LogMsg "addcomp", "OK name=" & swComp.Name2
+  End If
+  LogMsg "done", "probe complete"
+End Sub

@@ -1,0 +1,44 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='297mm' height='210mm' viewBox='0 0 297 210'><rect x='0' y='0' width='297' height='210' fill='white' stroke='black' stroke-width='1' /><rect x='57' y='72' width='66' height='56' fill='none' stroke='black' stroke-width='0.5' />
+<circle cx='90' cy='101' r='4.1' fill='none' stroke='black' stroke-width='0.35' />
+<line x1='85' y1='101' x2='95' y2='101' stroke='black' stroke-width='0.15' stroke-dasharray="5 2 1 2" />
+<line x1='90' y1='96' x2='90' y2='106' stroke='black' stroke-width='0.15' stroke-dasharray="5 2 1 2" />
+<line x1='57' y1='72' x2='57' y2='79' stroke='black' stroke-width='0.18' />
+<line x1='123' y1='72' x2='123' y2='79' stroke='black' stroke-width='0.18' />
+<line x1='57' y1='79' x2='123' y2='79' stroke='black' stroke-width='0.25' />
+<polygon points='57,79 58.6,78.28 58.6,79.72' fill='black' />
+<polygon points='123,79 121.4,79.72 121.4,78.28' fill='black' />
+<text x='90' y='78' font-size='3' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>66</text>
+<line x1='123' y1='72' x2='130' y2='72' stroke='black' stroke-width='0.18' />
+<line x1='123' y1='128' x2='130' y2='128' stroke='black' stroke-width='0.18' />
+<line x1='130' y1='72' x2='130' y2='128' stroke='black' stroke-width='0.25' />
+<polygon points='130,72 130.72,73.6 129.28,73.6' fill='black' />
+<polygon points='130,128 129.28,126.4 130.72,126.4' fill='black' />
+<text x='130.5' y='100' font-size='3' text-anchor='start' font-family='SimHei, Microsoft YaHei, sans-serif'>56</text>
+<line x1='57' y1='72' x2='50' y2='72' stroke='black' stroke-width='0.18' />
+<line x1='57' y1='101' x2='50' y2='101' stroke='black' stroke-width='0.18' />
+<line x1='50' y1='72' x2='50' y2='101' stroke='black' stroke-width='0.25' />
+<polygon points='50,72 50.72,73.6 49.28,73.6' fill='black' />
+<polygon points='50,101 49.28,99.4 50.72,99.4' fill='black' />
+<text x='50.5' y='86.5' font-size='2.8' text-anchor='start' font-family='SimHei, Microsoft YaHei, sans-serif'>27</text>
+<text x='94' y='97' font-size='2.8' text-anchor='start' font-family='SimHei, Microsoft YaHei, sans-serif'>Ø8.2</text>
+<rect x='196' y='72' width='24' height='56' fill='none' stroke='black' stroke-width='0.5' />
+<line x1='196' y1='100' x2='220' y2='100' stroke='black' stroke-width='0.15' stroke-dasharray="5 2 1 2" />
+<line x1='196' y1='128' x2='196' y2='135' stroke='black' stroke-width='0.18' />
+<line x1='220' y1='128' x2='220' y2='135' stroke='black' stroke-width='0.18' />
+<line x1='196' y1='135' x2='220' y2='135' stroke='black' stroke-width='0.25' />
+<polygon points='196,135 197.6,134.28 197.6,135.72' fill='black' />
+<polygon points='220,135 218.4,135.72 218.4,134.28' fill='black' />
+<text x='208' y='134' font-size='3' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>24</text>
+<rect x='157' y='178' width='140' height='32' fill='white' stroke='black' stroke-width='0.5' />
+<line x1='157' y1='188' x2='297' y2='188' stroke='black' stroke-width='0.35' />
+<line x1='217' y1='188' x2='217' y2='210' stroke='black' stroke-width='0.35' />
+<line x1='267' y1='188' x2='267' y2='210' stroke='black' stroke-width='0.35' />
+<line x1='157' y1='199' x2='297' y2='199' stroke='black' stroke-width='0.35' />
+<text x='187' y='185' font-size='4.5' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>滑块</text>
+<text x='242' y='195.5' font-size='3' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>45钢</text>
+<text x='287' y='195.5' font-size='3' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>1</text>
+<text x='302' y='195.5' font-size='3' text-anchor='end' font-family='SimHei, Microsoft YaHei, sans-serif'>1:1</text>
+<text x='167' y='205' font-size='3' text-anchor='start' font-family='SimHei, Microsoft YaHei, sans-serif'>P11</text>
+<text x='242' y='205' font-size='3' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>智能制造工程</text>
+<text x='282' y='205' font-size='3' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>2026-11</text>
+<text x='187' y='195.5' font-size='2.5' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>材料</text></svg>

@@ -1,0 +1,102 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='297mm' height='210mm' viewBox='0 0 297 210'><rect x='0' y='0' width='297' height='210' fill='white' stroke='black' stroke-width='1' /><circle cx='75' cy='105' r='35.2' fill='none' stroke='black' stroke-width='0.35' />
+<circle cx='75' cy='105' r='32' fill='none' stroke='black' stroke-width='0.2' stroke-dasharray="6 2 1 2" />
+<circle cx='75' cy='105' r='28' fill='none' stroke='black' stroke-width='0.2' />
+<path d='M 102.88 107.61 L 102.95 106.74 L 102.99 105.87 L 103 105 L 102.99 104.13 L 102.95 103.26 L 102.88 102.39 L 104.94 102.19 L 105.03 102.19 L 105.29 102.2 L 105.72 102.24 L 106.32 102.35 L 107.08 102.54 L 107.98 102.85 L 109.02 103.29 L 110.18 103.89 L 110.2 104.44 L 110.2 105 L 110.2 105.56 L 110.18 106.11 L 109.02 106.71 L 107.98 107.15 L 107.08 107.46 L 106.32 107.65 L 105.72 107.76 L 105.29 107.8 L 105.03 107.81 L 104.94 107.81 Z M 102.32 98.87 L 102.12 98.02 L 101.89 97.18 L 101.63 96.35 L 101.35 95.52 L 101.04 94.71 L 100.71 93.9 L 102.61 93.08 L 102.69 93.05 L 102.94 92.98 L 103.36 92.88 L 103.97 92.8 L 104.75 92.75 L 105.7 92.76 L 106.83 92.86 L 108.12 93.07 L 108.3 93.6 L 108.48 94.12 L 108.64 94.65 L 108.8 95.19 L 107.89 96.11 L 107.03 96.86 L 106.27 97.43 L 105.61 97.85 L 105.07 98.13 L 104.67 98.31 L 104.42 98.39 L 104.34 98.42 Z M 99.09 90.73 L 98.63 89.98 L 98.15 89.26 L 97.65 88.54 L 97.13 87.84 L 96.58 87.16 L 96.02 86.5 L 97.57 85.13 L 97.64 85.08 L 97.85 84.93 L 98.23 84.71 L 98.78 84.44 L 99.5 84.15 L 100.42 83.87 L 101.52 83.62 L 102.81 83.42 L 103.15 83.86 L 103.48 84.31 L 103.8 84.76 L 104.12 85.22 L 103.53 86.39 L 102.95 87.36 L 102.4 88.14 L 101.9 88.74 L 101.47 89.18 L 101.15 89.47 L 100.94 89.62 L 100.87 89.67 Z M 93.5 83.98 L 92.84 83.42 L 92.16 82.87 L 91.46 82.35 L 90.74 81.85 L 90.02 81.37 L 89.27 80.91 L 90.33 79.13 L 90.38 79.06 L 90.53 78.85 L 90.82 78.53 L 91.26 78.1 L 91.86 77.6 L 92.64 77.05 L 93.61 76.47 L 94.78 75.88 L 95.24 76.2 L 95.69 76.52 L 96.14 76.85 L 96.58 77.19 L 96.38 78.48 L 96.13 79.58 L 95.85 80.5 L 95.56 81.22 L 95.29 81.77 L 95.07 82.15 L 94.92 82.36 L 94.87 82.43 Z M 86.1 79.29 L 85.29 78.96 L 84.48 78.65 L 83.65 78.37 L 82.82 78.11 L 81.98 77.88 L 81.13 77.68 L 81.58 75.66 L 81.61 75.58 L 81.69 75.33 L 81.87 74.93 L 82.15 74.39 L 82.57 73.73 L 83.14 72.97 L 83.89 72.11 L 84.81 71.2 L 85.35 71.36 L 85.88 71.52 L 86.4 71.7 L 86.93 71.88 L 87.14 73.17 L 87.24 74.3 L 87.25 75.25 L 87.2 76.03 L 87.12 76.64 L 87.02 77.06 L 86.95 77.31 L 86.92 77.39 Z M 77.61 77.12 L 76.74 77.05 L 75.87 77.01 L 75 77 L 74.13 77.01 L 73.26 77.05 L 72.39 77.12 L 72.19 75.06 L 72.19 74.97 L 72.2 74.71 L 72.24 74.28 L 72.35 73.68 L 72.54 72.92 L 72.85 72.02 L 73.29 70.98 L 73.89 69.82 L 74.44 69.8 L 75 69.8 L 75.56 69.8 L 76.11 69.82 L 76.71 70.98 L 77.15 72.02 L 77.46 72.92 L 77.65 73.68 L 77.76 74.28 L 77.8 74.71 L 77.81 74.97 L 77.81 75.06 Z M 68.87 77.68 L 68.02 77.88 L 67.18 78.11 L 66.35 78.37 L 65.52 78.65 L 64.71 78.96 L 63.9 79.29 L 63.08 77.39 L 63.05 77.31 L 62.98 77.06 L 62.88 76.64 L 62.8 76.03 L 62.75 75.25 L 62.76 74.3 L 62.86 73.17 L 63.07 71.88 L 63.6 71.7 L 64.12 71.52 L 64.65 71.36 L 65.19 71.2 L 66.11 72.11 L 66.86 72.97 L 67.43 73.73 L 67.85 74.39 L 68.13 74.93 L 68.31 75.33 L 68.39 75.58 L 68.42 75.66 Z M 60.73 80.91 L 59.98 81.37 L 59.26 81.85 L 58.54 82.35 L 57.84 82.87 L 57.16 83.42 L 56.5 83.98 L 55.13 82.43 L 55.08 82.36 L 54.93 82.15 L 54.71 81.77 L 54.44 81.22 L 54.15 80.5 L 53.87 79.58 L 53.62 78.48 L 53.42 77.19 L 53.86 76.85 L 54.31 76.52 L 54.76 76.2 L 55.22 75.88 L 56.39 76.47 L 57.36 77.05 L 58.14 77.6 L 58.74 78.1 L 59.18 78.53 L 59.47 78.85 L 59.62 79.06 L 59.67 79.13 Z M 53.98 86.5 L 53.42 87.16 L 52.87 87.84 L 52.35 88.54 L 51.85 89.26 L 51.37 89.98 L 50.91 90.73 L 49.13 89.67 L 49.06 89.62 L 48.85 89.47 L 48.53 89.18 L 48.1 88.74 L 47.6 88.14 L 47.05 87.36 L 46.47 86.39 L 45.88 85.22 L 46.2 84.76 L 46.52 84.31 L 46.85 83.86 L 47.19 83.42 L 48.48 83.62 L 49.58 83.87 L 50.5 84.15 L 51.22 84.44 L 51.77 84.71 L 52.15 84.93 L 52.36 85.08 L 52.43 85.13 Z M 49.29 93.9 L 48.96 94.71 L 48.65 95.52 L 48.37 96.35 L 48.11 97.18 L 47.88 98.02 L 47.68 98.87 L 45.66 98.42 L 45.58 98.39 L 45.33 98.31 L 44.93 98.13 L 44.39 97.85 L 43.73 97.43 L 42.97 96.86 L 42.11 96.11 L 41.2 95.19 L 41.36 94.65 L 41.52 94.12 L 41.7 93.6 L 41.88 93.07 L 43.17 92.86 L 44.3 92.76 L 45.25 92.75 L 46.03 92.8 L 46.64 92.88 L 47.06 92.98 L 47.31 93.05 L 47.39 93.08 Z M 47.12 102.39 L 47.05 103.26 L 47.01 104.13 L 47 105 L 47.01 105.87 L 47.05 106.74 L 47.12 107.61 L 45.06 107.81 L 44.97 107.81 L 44.71 107.8 L 44.28 107.76 L 43.68 107.65 L 42.92 107.46 L 42.02 107.15 L 40.98 106.71 L 39.82 106.11 L 39.8 105.56 L 39.8 105 L 39.8 104.44 L 39.82 103.89 L 40.98 103.29 L 42.02 102.85 L 42.92 102.54 L 43.68 102.35 L 44.28 102.24 L 44.71 102.2 L 44.97 102.19 L 45.06 102.19 Z M 47.68 111.13 L 47.88 111.98 L 48.11 112.82 L 48.37 113.65 L 48.65 114.48 L 48.96 115.29 L 49.29 116.1 L 47.39 116.92 L 47.31 116.95 L 47.06 117.02 L 46.64 117.12 L 46.03 117.2 L 45.25 117.25 L 44.3 117.24 L 43.17 117.14 L 41.88 116.93 L 41.7 116.4 L 41.52 115.88 L 41.36 115.35 L 41.2 114.81 L 42.11 113.89 L 42.97 113.14 L 43.73 112.57 L 44.39 112.15 L 44.93 111.87 L 45.33 111.69 L 45.58 111.61 L 45.66 111.58 Z M 50.91 119.27 L 51.37 120.02 L 51.85 120.74 L 52.35 121.46 L 52.87 122.16 L 53.42 122.84 L 53.98 123.5 L 52.43 124.87 L 52.36 124.92 L 52.15 125.07 L 51.77 125.29 L 51.22 125.56 L 50.5 125.85 L 49.58 126.13 L 48.48 126.38 L 47.19 126.58 L 46.85 126.14 L 46.52 125.69 L 46.2 125.24 L 45.88 124.78 L 46.47 123.61 L 47.05 122.64 L 47.6 121.86 L 48.1 121.26 L 48.53 120.82 L 48.85 120.53 L 49.06 120.38 L 49.13 120.33 Z M 56.5 126.02 L 57.16 126.58 L 57.84 127.13 L 58.54 127.65 L 59.26 128.15 L 59.98 128.63 L 60.73 129.09 L 59.67 130.87 L 59.62 130.94 L 59.47 131.15 L 59.18 131.47 L 58.74 131.9 L 58.14 132.4 L 57.36 132.95 L 56.39 133.53 L 55.22 134.12 L 54.76 133.8 L 54.31 133.48 L 53.86 133.15 L 53.42 132.81 L 53.62 131.52 L 53.87 130.42 L 54.15 129.5 L 54.44 128.78 L 54.71 128.23 L 54.93 127.85 L 55.08 127.64 L 55.13 127.57 Z M 63.9 130.71 L 64.71 131.04 L 65.52 131.35 L 66.35 131.63 L 67.18 131.89 L 68.02 132.12 L 68.87 132.32 L 68.42 134.34 L 68.39 134.42 L 68.31 134.67 L 68.13 135.07 L 67.85 135.61 L 67.43 136.27 L 66.86 137.03 L 66.11 137.89 L 65.19 138.8 L 64.65 138.64 L 64.12 138.48 L 63.6 138.3 L 63.07 138.12 L 62.86 136.83 L 62.76 135.7 L 62.75 134.75 L 62.8 133.97 L 62.88 133.36 L 62.98 132.94 L 63.05 132.69 L 63.08 132.61 Z M 72.39 132.88 L 73.26 132.95 L 74.13 132.99 L 75 133 L 75.87 132.99 L 76.74 132.95 L 77.61 132.88 L 77.81 134.94 L 77.81 135.03 L 77.8 135.29 L 77.76 135.72 L 77.65 136.32 L 77.46 137.08 L 77.15 137.98 L 76.71 139.02 L 76.11 140.18 L 75.56 140.2 L 75 140.2 L 74.44 140.2 L 73.89 140.18 L 73.29 139.02 L 72.85 137.98 L 72.54 137.08 L 72.35 136.32 L 72.24 135.72 L 72.2 135.29 L 72.19 135.03 L 72.19 134.94 Z M 81.13 132.32 L 81.98 132.12 L 82.82 131.89 L 83.65 131.63 L 84.48 131.35 L 85.29 131.04 L 86.1 130.71 L 86.92 132.61 L 86.95 132.69 L 87.02 132.94 L 87.12 133.36 L 87.2 133.97 L 87.25 134.75 L 87.24 135.7 L 87.14 136.83 L 86.93 138.12 L 86.4 138.3 L 85.88 138.48 L 85.35 138.64 L 84.81 138.8 L 83.89 137.89 L 83.14 137.03 L 82.57 136.27 L 82.15 135.61 L 81.87 135.07 L 81.69 134.67 L 81.61 134.42 L 81.58 134.34 Z M 89.27 129.09 L 90.02 128.63 L 90.74 128.15 L 91.46 127.65 L 92.16 127.13 L 92.84 126.58 L 93.5 126.02 L 94.87 127.57 L 94.92 127.64 L 95.07 127.85 L 95.29 128.23 L 95.56 128.78 L 95.85 129.5 L 96.13 130.42 L 96.38 131.52 L 96.58 132.81 L 96.14 133.15 L 95.69 133.48 L 95.24 133.8 L 94.78 134.12 L 93.61 133.53 L 92.64 132.95 L 91.86 132.4 L 91.26 131.9 L 90.82 131.47 L 90.53 131.15 L 90.38 130.94 L 90.33 130.87 Z M 96.02 123.5 L 96.58 122.84 L 97.13 122.16 L 97.65 121.46 L 98.15 120.74 L 98.63 120.02 L 99.09 119.27 L 100.87 120.33 L 100.94 120.38 L 101.15 120.53 L 101.47 120.82 L 101.9 121.26 L 102.4 121.86 L 102.95 122.64 L 103.53 123.61 L 104.12 124.78 L 103.8 125.24 L 103.48 125.69 L 103.15 126.14 L 102.81 126.58 L 101.52 126.38 L 100.42 126.13 L 99.5 125.85 L 98.78 125.56 L 98.23 125.29 L 97.85 125.07 L 97.64 124.92 L 97.57 124.87 Z M 100.71 116.1 L 101.04 115.29 L 101.35 114.48 L 101.63 113.65 L 101.89 112.82 L 102.12 111.98 L 102.32 111.13 L 104.34 111.58 L 104.42 111.61 L 104.67 111.69 L 105.07 111.87 L 105.61 112.15 L 106.27 112.57 L 107.03 113.14 L 107.89 113.89 L 108.8 114.81 L 108.64 115.35 L 108.48 115.88 L 108.3 116.4 L 108.12 116.93 L 106.83 117.14 L 105.7 117.24 L 104.75 117.25 L 103.97 117.2 L 103.36 117.12 L 102.94 117.02 L 102.69 116.95 L 102.61 116.92 Z ' fill='none' stroke='black' stroke-width='0.2' />
+<circle cx='75' cy='105' r='12.8' fill='none' stroke='black' stroke-width='0.4' />
+<circle cx='75' cy='105' r='8.16' fill='none' stroke='black' stroke-width='0.35' />
+<line x1='82.23' y1='101.22' x2='67.27' y2='102.4' stroke='black' stroke-width='0.35' />
+<line x1='110.2' y1='69.8' x2='117.2' y2='69.8' stroke='black' stroke-width='0.18' />
+<line x1='110.2' y1='105' x2='117.2' y2='105' stroke='black' stroke-width='0.18' />
+<line x1='117.2' y1='69.8' x2='117.2' y2='105' stroke='black' stroke-width='0.25' />
+<polygon points='117.2,69.8 117.92,71.4 116.48,71.4' fill='black' />
+<polygon points='117.2,105 116.48,103.4 117.92,103.4' fill='black' />
+<text x='117.7' y='87.4' font-size='3' text-anchor='start' font-family='SimHei, Microsoft YaHei, sans-serif'>Ø44</text>
+<line x1='39.8' y1='73' x2='29.8' y2='73' stroke='black' stroke-width='0.18' />
+<line x1='39.8' y1='105' x2='29.8' y2='105' stroke='black' stroke-width='0.18' />
+<line x1='29.8' y1='73' x2='29.8' y2='105' stroke='black' stroke-width='0.25' />
+<polygon points='29.8,73 30.52,74.6 29.08,74.6' fill='black' />
+<polygon points='29.8,105 29.08,103.4 30.52,103.4' fill='black' />
+<text x='30.3' y='89' font-size='2.8' text-anchor='start' font-family='SimHei, Microsoft YaHei, sans-serif'>Ø40</text>
+<line x1='39.8' y1='77' x2='22.8' y2='77' stroke='black' stroke-width='0.18' />
+<line x1='39.8' y1='105' x2='22.8' y2='105' stroke='black' stroke-width='0.18' />
+<line x1='22.8' y1='77' x2='22.8' y2='105' stroke='black' stroke-width='0.25' />
+<polygon points='22.8,77 23.52,78.6 22.08,78.6' fill='black' />
+<polygon points='22.8,105 22.08,103.4 23.52,103.4' fill='black' />
+<text x='23.3' y='91' font-size='2.8' text-anchor='start' font-family='SimHei, Microsoft YaHei, sans-serif'>Ø35</text>
+<line x1='39.8' y1='92.2' x2='29.8' y2='92.2' stroke='black' stroke-width='0.18' />
+<line x1='39.8' y1='105' x2='29.8' y2='105' stroke='black' stroke-width='0.18' />
+<line x1='29.8' y1='92.2' x2='29.8' y2='105' stroke='black' stroke-width='0.25' />
+<polygon points='29.8,92.2 30.52,93.8 29.08,93.8' fill='black' />
+<polygon points='29.8,105 29.08,103.4 30.52,103.4' fill='black' />
+<text x='30.3' y='98.6' font-size='2.8' text-anchor='start' font-family='SimHei, Microsoft YaHei, sans-serif'>Ø16</text>
+<text x='91' y='127.4' font-size='2.8' text-anchor='start' font-family='SimHei, Microsoft YaHei, sans-serif'>Ø10.2</text>
+<rect x='186' y='83' width='24' height='44' fill='none' stroke='black' stroke-width='0.5' />
+<line x1='204' y1='83' x2='204' y2='127' stroke='black' stroke-width='0.15' stroke-dasharray="5 2 1 2" />
+<line x1='192' y1='83' x2='192' y2='127' stroke='black' stroke-width='0.15' stroke-dasharray="5 2 1 2" />
+<line x1='186' y1='97' x2='204' y2='97' stroke='black' stroke-width='0.35' />
+<line x1='186' y1='113' x2='204' y2='113' stroke='black' stroke-width='0.35' />
+<line x1='192' y1='97' x2='192' y2='113' stroke='black' stroke-width='0.35' />
+<line x1='210' y1='97' x2='210' y2='113' stroke='black' stroke-width='0.35' />
+<line x1='186' y1='99.9' x2='210' y2='99.9' stroke='black' stroke-width='0.15' stroke-dasharray="5 2 1 2" />
+<line x1='186' y1='110.1' x2='210' y2='110.1' stroke='black' stroke-width='0.15' stroke-dasharray="5 2 1 2" />
+<line x1='186' y1='127' x2='186' y2='134' stroke='black' stroke-width='0.18' />
+<line x1='210' y1='127' x2='210' y2='134' stroke='black' stroke-width='0.18' />
+<line x1='186' y1='134' x2='210' y2='134' stroke='black' stroke-width='0.25' />
+<polygon points='186,134 187.6,133.28 187.6,134.72' fill='black' />
+<polygon points='210,134 208.4,134.72 208.4,133.28' fill='black' />
+<text x='198' y='133' font-size='3' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>24</text>
+<line x1='204' y1='83' x2='204' y2='76' stroke='black' stroke-width='0.18' />
+<line x1='210' y1='83' x2='210' y2='76' stroke='black' stroke-width='0.18' />
+<line x1='204' y1='76' x2='210' y2='76' stroke='black' stroke-width='0.25' />
+<polygon points='204,76 205.6,75.28 205.6,76.72' fill='black' />
+<polygon points='210,76 208.4,76.72 208.4,75.28' fill='black' />
+<text x='207' y='75' font-size='3' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>6</text>
+<line x1='192' y1='83' x2='192' y2='76' stroke='black' stroke-width='0.18' />
+<line x1='204' y1='83' x2='204' y2='76' stroke='black' stroke-width='0.18' />
+<line x1='192' y1='76' x2='204' y2='76' stroke='black' stroke-width='0.25' />
+<polygon points='192,76 193.6,75.28 193.6,76.72' fill='black' />
+<polygon points='204,76 202.4,76.72 202.4,75.28' fill='black' />
+<text x='198' y='75' font-size='3' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>12</text>
+<line x1='186' y1='83' x2='186' y2='76' stroke='black' stroke-width='0.18' />
+<line x1='192' y1='83' x2='192' y2='76' stroke='black' stroke-width='0.18' />
+<line x1='186' y1='76' x2='192' y2='76' stroke='black' stroke-width='0.25' />
+<polygon points='186,76 187.6,75.28 187.6,76.72' fill='black' />
+<polygon points='192,76 190.4,76.72 190.4,75.28' fill='black' />
+<text x='189' y='75' font-size='3' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>6</text>
+<rect x='160' y='30' width='46' height='35' fill='white' stroke='black' stroke-width='0.35' />
+<text x='183' y='28.5' font-size='3.2' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>齿轮参数</text>
+<line x1='160' y1='30' x2='206' y2='30' stroke='black' stroke-width='0.25' />
+<text x='171' y='33.5' font-size='2.8' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>m</text>
+<text x='194' y='33.5' font-size='2.8' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>2</text>
+<line x1='160' y1='35' x2='206' y2='35' stroke='black' stroke-width='0.25' />
+<text x='171' y='38.5' font-size='2.8' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>z</text>
+<text x='194' y='38.5' font-size='2.8' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>20</text>
+<line x1='160' y1='40' x2='206' y2='40' stroke='black' stroke-width='0.25' />
+<text x='171' y='43.5' font-size='2.8' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>α</text>
+<text x='194' y='43.5' font-size='2.8' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>20°</text>
+<line x1='160' y1='45' x2='206' y2='45' stroke='black' stroke-width='0.25' />
+<text x='171' y='48.5' font-size='2.8' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>d</text>
+<text x='194' y='48.5' font-size='2.8' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>40</text>
+<line x1='160' y1='50' x2='206' y2='50' stroke='black' stroke-width='0.25' />
+<text x='171' y='53.5' font-size='2.8' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>da</text>
+<text x='194' y='53.5' font-size='2.8' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>44</text>
+<line x1='160' y1='55' x2='206' y2='55' stroke='black' stroke-width='0.25' />
+<text x='171' y='58.5' font-size='2.8' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>df</text>
+<text x='194' y='58.5' font-size='2.8' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>35</text>
+<line x1='160' y1='60' x2='206' y2='60' stroke='black' stroke-width='0.25' />
+<text x='171' y='63.5' font-size='2.8' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>b</text>
+<text x='194' y='63.5' font-size='2.8' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>12</text>
+<line x1='160' y1='65' x2='206' y2='65' stroke='black' stroke-width='0.25' />
+<rect x='157' y='178' width='140' height='32' fill='white' stroke='black' stroke-width='0.5' />
+<line x1='157' y1='188' x2='297' y2='188' stroke='black' stroke-width='0.35' />
+<line x1='217' y1='188' x2='217' y2='210' stroke='black' stroke-width='0.35' />
+<line x1='267' y1='188' x2='267' y2='210' stroke='black' stroke-width='0.35' />
+<line x1='157' y1='199' x2='297' y2='199' stroke='black' stroke-width='0.35' />
+<text x='187' y='185' font-size='4.5' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>主动齿轮</text>
+<text x='242' y='195.5' font-size='3' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>45钢</text>
+<text x='287' y='195.5' font-size='3' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>1</text>
+<text x='302' y='195.5' font-size='3' text-anchor='end' font-family='SimHei, Microsoft YaHei, sans-serif'>1:1</text>
+<text x='167' y='205' font-size='3' text-anchor='start' font-family='SimHei, Microsoft YaHei, sans-serif'>P06</text>
+<text x='242' y='205' font-size='3' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>智能制造工程</text>
+<text x='282' y='205' font-size='3' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>2026-11</text>
+<text x='187' y='195.5' font-size='2.5' text-anchor='middle' font-family='SimHei, Microsoft YaHei, sans-serif'>材料</text></svg>

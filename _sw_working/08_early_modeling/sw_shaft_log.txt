@@ -1,0 +1,8 @@
+===== SHAFT VBS START 2026/10/24 22:40:09 =====
+1. CreateObject OK
+2. NewPart OK
+3. Plane select: True
+4. Sketch done
+5. Revolve returned Nothing (likely failed)
+6. SAVED OK
+===== SHAFT VBS SUCCESS 2026/10/24 22:40:11 =====

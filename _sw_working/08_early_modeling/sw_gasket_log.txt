@@ -1,0 +1,6 @@
+CreateObject: 0
+NewPart: 0
+Plane: True
+Sketch circles: 0
+Extrude: OK ÕπÃ®-¿≠…Ï1
+Save: 0 
